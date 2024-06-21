@@ -1,5 +1,5 @@
-package com.mishkat.assignment;
-import utilities.*;
+
+import java.util.*;
 
 public class AssignmentMain {
 
@@ -9,9 +9,11 @@ public class AssignmentMain {
 		//Manager mng = new Manager();
 		//Developer dev = new Developer();
 		
-		EmployeeUtilities obj = new EmployeeUtilities();
+//		EmployeeUtilities obj = new EmployeeUtilities();
+//		
+//		obj.getEmpinfo();
 		
-		obj.getEmpinfo();
+		
 	}
 
 }
