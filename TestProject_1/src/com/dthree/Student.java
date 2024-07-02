@@ -15,6 +15,7 @@ public class Student extends Citizen {
 		this.clgName = clgName;
 	}
 
+	
 	public Student(String name, long adhaarNo, String address, long phno) {// to give value to base class members
 		super(name, adhaarNo, address, phno);
 		// TODO Auto-generated constructor stub

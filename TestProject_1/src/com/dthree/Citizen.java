@@ -6,6 +6,7 @@ public class Citizen {
 	protected String address;
 	protected long phno;
 	
+	
 	public Citizen() {
 		super();
 		// TODO Auto-generated constructor stub
