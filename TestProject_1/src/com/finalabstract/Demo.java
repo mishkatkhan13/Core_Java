@@ -1,4 +1,4 @@
-package com.dfive;
+package com.finalabstract;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		//TaxPayers ob;
 		Scanner sc = new Scanner(System.in);
-		Personone ob = new Personone(); 
+		Personone ob = new Personone(56000); 
 		
 		System.out.println("Enter ur name: ");
 		ob.name = sc.nextLine();

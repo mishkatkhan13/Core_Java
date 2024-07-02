@@ -1,4 +1,4 @@
-package com.mishkat.assignment;
+package com.mishkat.assignment.assg2;
 
 import java.util.Scanner;
 
@@ -10,15 +10,7 @@ public class Commission {
 	private int phone;
 	private double sales_amount;
 	double comm;
-	
-	
-//	public Commission(String name, String address, Float phone, Float sales_amount) {
-//		this.Name = name;
-//		this.Address = address;
-//		this.Phone = phone;
-//		this.Sales_amount = sales_amount;
-//	}
-
+		
 	public void getdetails() {
 		System.out.println("Enter ur name: ");
 		this.name = sc.nextLine();

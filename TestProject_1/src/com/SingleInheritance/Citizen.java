@@ -1,4 +1,4 @@
-package com.dthree;
+package com.SingleInheritance;
 
 public class Citizen {
 	protected String name;

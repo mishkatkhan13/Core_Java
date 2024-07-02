@@ -1,4 +1,4 @@
-package com.mishkat.assignment;
+package com.constructor;
 
 public class Constructructor {
 	

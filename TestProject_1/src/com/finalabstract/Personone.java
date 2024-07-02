@@ -1,18 +1,22 @@
-package com.dfive;
+package com.finalabstract;
 
 public class Personone extends TaxPayers {
 	String name;
 	double salary;
 	
 	
-	
-	public Personone() {
-		super();
-		// TODO Auto-generated constructor stub
+//	
+//	public Personone() {
+//		//super();
+//		// TODO Auto-generated constructor stub
+//	}
+
+	public Personone(double tax) {
+		super(tax);
 	}
 
 	public Personone(String name, double salary) {
-		super();
+		super(salary);
 		this.name = name;
 		this.salary = salary;
 	}

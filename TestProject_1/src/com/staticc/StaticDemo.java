@@ -1,4 +1,4 @@
-package com.dfour;
+package com.staticc;
 
 public class StaticDemo {
 

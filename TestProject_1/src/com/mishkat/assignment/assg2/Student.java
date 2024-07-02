@@ -1,4 +1,4 @@
-package com.mishkat.assignment;
+package com.mishkat.assignment.assg2;
 
 public class Student {
 	
